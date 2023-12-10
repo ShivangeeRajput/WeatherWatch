@@ -10,7 +10,11 @@ A Simple Weather Applictaion implemented using API.
 Here's a walkthrough of implemented user stories:
 
 https://github.com/ShivangeeRajput/WeatherWatch/assets/100294737/a2f9ab7f-589d-4804-849a-e543986010fd
-
+<p>
+    <img src="https://github.com/ShivangeeRajput/WeatherWatch/assets/100294737/4ae59b65-18ce-40fc-9888-33c5867eb9a9.jpg" height="500">
+    <img src="https://github.com/ShivangeeRajput/WeatherWatch/assets/100294737/f45c3230-6e17-40fd-815a-d03531f21250.jpg" height="500">
+    <img src="https://github.com/ShivangeeRajput/WeatherWatch/assets/100294737/bee39c2b-b551-4c8b-9396-79d1b41850ac.jpg" height="500">
+</p>
 ## Notes
 
 Describe any challenges encountered while building the app.
